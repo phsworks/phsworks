@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi! 👋 I'm Piet-Hein Schouten, Full Stack Web Developer 💻  
 
-<!--
-**phsworks/phsworks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me  
 
-Here are some ideas to get you started:
+Passionate about technology and innovative software, I combine creativity and technical skills to build impactful solutions. I love collaborating on projects that bring ideas to life and make a difference in everyday life.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌟 Tech Stack  
+
+- **Frontend**: HTML, CSS, JavaScript, React  
+- **Backend**: Node.js, Express.js, MySQL  
+- **Others**: UX/UI Design, WordPress  
+
+---
+
