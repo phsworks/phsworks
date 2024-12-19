@@ -6,9 +6,9 @@
 
 My whole life, I have been passionate about technology and innovative software. Starting out as a marketing student, I realized I wanted to make a change and pursue a career in software development. Following my passion, I am now a Full Stack Developer. For me, building software feels like creating magic!
 
-Whether it’s on my own or in collaborative environments, I love taking on challenges that push my limits. I am especially interested in working on meaningful projects that improve our daily lives. I enjoy building applications, websites, and games, optimizing performance, and experimenting with creative designs.
+I am especially interested in working on meaningful projects that improve our daily lives. I enjoy building applications, websites, and games, optimizing performance, and experimenting with creative designs.
 
-When I’m not coding, I explore new tech trends, enjoy a football match, or brainstorm ideas for my next project.  
+When I’m not coding, I explore new tech trends 🧑🏻‍💻, enjoy a football match ⚽️, or brainstorm ideas 💡 for my next project!  
 
 ---
 
@@ -16,7 +16,6 @@ When I’m not coding, I explore new tech trends, enjoy a football match, or bra
 
 - **Frontend**: HTML, CSS, JavaScript, React  
 - **Backend**: Node.js, Express.js, MySQL  
-- **Others**: Wordpress, Photoshop 
 
 ---
 
