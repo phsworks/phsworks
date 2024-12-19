@@ -10,7 +10,7 @@ Passionate about technology and innovative software, I combine creativity and te
 
 - **Frontend**: HTML, CSS, JavaScript, React  
 - **Backend**: Node.js, Express.js, MySQL  
-- **Others**: UX/UI Design, WordPress  
+- **Others**: Wordpress, Photoshop 
 
 ---
 
