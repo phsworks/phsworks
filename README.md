@@ -1,13 +1,14 @@
-# Hi! 👋 I'm Piet-Hein, Full Stack Web Developer 💻  
+# Hi, I'm Piet-Hein, Full Stack Web Developer 💻  
 
 
 ## 🚀 About Me  
 
-Passionate about **technology** and **innovative software**, I enjoy combining creativity and technical skills to build impactful solutions that improve everyday life. My journey in tech started with a curiosity for how digital tools can connect people and ideas, which eventually led me to pursue full-stack development.  
 
-I thrive in collaborative environments where I can contribute to meaningful projects and continuously learn new technologies. Whether it's building intuitive applications, optimizing performance, or experimenting with creative designs, I love taking on challenges that push my limits.  
+My whole life, I have been passionate about technology and innovative software. Starting out as a marketing student, I realized I wanted to make a change and pursue a career in software development. Following my passion, I am now a Full Stack Developer. For me, building software feels like creating magic!
 
-When I’m not coding, you can find me exploring new tech trends, enjoying a football match, or brainstorming ideas for my next project.  
+Whether it’s on my own or in collaborative environments, I love taking on challenges that push my limits. I am especially interested in working on meaningful projects that improve our daily lives. I enjoy building applications, websites, and games, optimizing performance, and experimenting with creative designs.
+
+When I’m not coding, I explore new tech trends, enjoy a football match, or brainstorm ideas for my next project.  
 
 ---
 
@@ -28,10 +29,9 @@ When I’m not coding, you can find me exploring new tech trends, enjoying a foo
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phsworks&layout=compact&theme=radical)  
 
 
-
 ## 📧 Let's Connect  
 
-I’m always excited to collaborate on innovative projects and meet like-minded professionals. Feel free to reach out!  
+I’m always excited to collaborate and meet like-minded people. Feel free to reach out!  
 
 - Email: piethein@schouten.nl  
 - LinkedIn: https://www.linkedin.com/in/piet-hein-schouten-4a2b451bb/
