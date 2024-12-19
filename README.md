@@ -19,7 +19,13 @@ When I’m not coding, you can find me exploring new tech trends, enjoying a foo
 
 ---
 
-[GitHub Stats](https://github-readme-stats.vercel.app/api?username=phsworks&show_icons=true&theme=radical)
+## 📊 GitHub Stats  
+
+![Piet-Hein's GitHub Stats](https://github-readme-stats.vercel.app/api?username=phsworks&show_icons=true&theme=radical)  
+
+## 🔍 Most Used Languages  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=phsworks&layout=compact&theme=radical)  
 
 
 
