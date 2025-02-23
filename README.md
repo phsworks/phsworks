@@ -14,7 +14,7 @@ When I’m not coding, I explore new tech trends 🧑🏻‍💻, enjoy a footba
 
 ## Tech Stack 🤓
 
-- **Frontend**: HTML, CSS, JavaScript, React  
+- **Frontend**: HTML, CSS, JavaScript, React, React Native
 - **Backend**: Node.js, Express.js, MySQL  
 
 ---
@@ -32,5 +32,5 @@ When I’m not coding, I explore new tech trends 🧑🏻‍💻, enjoy a footba
 
 I’m always excited to collaborate and meet like-minded people. Feel free to reach out!  
 
-- Email: piethein@schouten.nl  
-- LinkedIn: https://www.linkedin.com/in/piet-hein-schouten-4a2b451bb/
+- Email: piethein@phsdevelopment.nl  
+- LinkedIn: https://www.linkedin.com/in/piet-hein-schouten/
