@@ -12,7 +12,7 @@ When I’m not coding, I explore new tech trends 🧑🏻‍💻, enjoy a footba
 
 ---
 
-## Tech Stack 🤓
+## Tech Stack 
 
 - **Frontend**: HTML, CSS, JavaScript, React, React Native
 - **Backend**: Node.js, Express.js, MySQL  
