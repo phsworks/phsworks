@@ -4,7 +4,7 @@
 ## About Me  
 
 
-My whole life, I have been passionate about technology and innovative software. Starting out as a marketing student, I realized I wanted to make a change and pursue a career in software development. Following my passion, I am now a Full Stack Developer. For me, building software feels like creating magic!
+My whole life, I have been passionate about technology and software. Starting out as a entrepeneurship & retail management student, I realized I wanted to make a change and pursue a career in software development. Following my passion, I am now a Full Stack Developer. For me, building software feels like creating magic!
 
 I am especially interested in working on meaningful projects that improve our daily lives. I enjoy building applications, websites, and games, optimizing performance, and experimenting with creative designs.
 
