@@ -11,14 +11,15 @@ My whole life, I have been passionate about technology and software. Starting ou
 
 # 📊 GitHub Stats:
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phsworks&theme=dark&hide_border=false&include_all_commits=false&count_private=true" width="450px"/>
+</p>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phsworks&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=default&card_width=450" height="180px"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=phsworks&theme=dark&hide_border=false&include_all_commits=false&count_private=true&card_width=450" height="180px"/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=phsworks&theme=dark&hide_border=false&card_width=450" height="180px"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=phsworks&theme=dark&hide_border=false&include_all_commits=false&count_private=true" width="450px"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=phsworks&theme=dark&hide_border=false" width="450px"/>
+</p>
 
-</div>
 
 
 
