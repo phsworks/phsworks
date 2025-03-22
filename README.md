@@ -12,7 +12,7 @@ My whole life, I have been passionate about technology and software. Starting ou
 # 📊 GitHub Stats:
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phsworks&theme=dark&hide_border=false&include_all_commits=false&count_private=true" width="350px" height="200px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phsworks&theme=dark&hide_border=false&include_all_commits=false&count_private=true" width="350px" height="100px" />
   <img src="https://github-readme-stats.vercel.app/api?username=phsworks&theme=dark&hide_border=false&include_all_commits=false&count_private=true" width="350px" height="200px" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=phsworks&theme=dark&hide_border=false" width="350px" height="200px" />
 </p>
