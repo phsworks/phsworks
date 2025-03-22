@@ -14,11 +14,11 @@ My whole life, I have been passionate about technology and software. Starting ou
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=phsworks&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 
-## 🌐 Socials:
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:piethein@phsdevelopment.nl)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piethein-schouten/)  
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCEIjn71x-ahkmjvUxYURz-w)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/phsdevelopment/)  
+## 🌐 Let's Connect  
+
+I’m always excited to collaborate and meet like-minded people. Feel free to reach out!  
+
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:piethein@phsdevelopment.nl)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piethein-schouten/)  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCEIjn71x-ahkmjvUxYURz-w)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/phsdevelopment/)  
 
 
 ---
