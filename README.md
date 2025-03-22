@@ -11,11 +11,9 @@ My whole life, I have been passionate about technology and software. Starting ou
 
 # 📊 GitHub Stats:
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=phsworks&theme=dark&hide_border=false&include_all_commits=false&count_private=true" width="350px" height="100px" />
-  <img src="https://github-readme-stats.vercel.app/api?username=phsworks&theme=dark&hide_border=false&include_all_commits=false&count_private=true" width="350px" height="200px" />
-  <img src="https://nirzak-streak-stats.vercel.app/?user=phsworks&theme=dark&hide_border=false" width="350px" height="200px" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=phsworks&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=phsworks&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=phsworks&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 
 
@@ -30,4 +28,9 @@ I’m always excited to collaborate and meet like-minded people. Feel free to re
 ---
 
 [![](https://visitcount.itsvg.in/api?id=phsworks&icon=0&color=6)](https://visitcount.itsvg.in)
+
+
+
+
+
 
