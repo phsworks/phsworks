@@ -12,7 +12,7 @@ My whole life, I have been passionate about technology and software. Starting ou
 <br><br>
 ## 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/piethein-schouten/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:piethein@phsdevelopment.nl) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piethein-schouten/) [![email](https://img.shields.io/badge/Email-D14836?logo=outlook&logoColor=white)](mailto:piethein@phsdevelopment.nl) 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=phsworks&icon=0&color=0)](https://visitcount.itsvg.in)
